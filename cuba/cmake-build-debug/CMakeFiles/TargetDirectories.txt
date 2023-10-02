@@ -1,0 +1,3 @@
+/Users/ilya/CLionProjects/cuba/cmake-build-debug/CMakeFiles/cuba.dir
+/Users/ilya/CLionProjects/cuba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ilya/CLionProjects/cuba/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+"/Users/ilya/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.35/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/ilya/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.35/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/ilya/CLionProjects/light -B /Users/ilya/CLionProjects/light/cmake-build-debug
+-- Checking for module 'glut'
+--   No package 'glut' found
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/ilya/CLionProjects/light/cmake-build-debug
